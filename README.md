@@ -30,3 +30,7 @@ Here, I don't just accumulate boilerplate code. I dissect software under a micro
 *   **Result:** Shifting from tutorial checkboxes to enterprise data preservation patterns.
 *   **Key Insights:** Practice-driven system design (Dogfooding), Soft Delete patterns, and evaluating back-end storage partitioning strategies (`notes.json` vs `archive.json`).
 
+### 🧬 [Issue #5: Under the Hood of V8 — How JS Trashes the CPU](./cases/05-v8-internals-cpu/)
+*   **Topic:** V8 runtime optimizations, hardware memory alignment, and low-level execution paths.
+*   **Result:** Understanding the physics of dynamic code and maximizing throughput using TypedArrays.
+*   **Key Insights:** Pointer chasing bottlenecks, hidden classes, cache-line prefetching, and bypassing heap overhead.
